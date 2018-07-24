@@ -1,0 +1,16 @@
+Descrição dos Exemplos e Conceitos do Laravel
+
+:: Routers
+
+ -> Exemplos de utilização de rotas com Laravel
+ -> Definindo as Views atravéz das Rotas
+ -> Exemplo de aplicações de Álias em rotas para uso interno do Laravel
+ -> Criando hiperligações com rotas nomeadas
+
+:: COntrollers
+
+ -> Definição de Controller atravéz do artisan
+ -> Retornando argumentos atravéz dos Controllers
+ -> Acionando ações diferentes atravéz de uma mesma rota
+ -> Actions e Controllers
+ -> Passando parametros entre rotas e controllers
